@@ -1,0 +1,45 @@
+{
+  "companies": [
+    {
+      "id": 900674335,
+      "IdType": "Persona Natural",
+      "firstName1": "David",
+      "firstName2": "E",
+      "lastName1": "Cortes",
+      "lastName2": "Perez",
+      "email": "david@cortes.co",
+      "address": "",
+      "cellNumber": 0,
+      "sendPhoneMessages": false,
+      "sendEmailMessages": false,
+      "name": "Others Company Modified",
+      "reason": "No able for Register members of this company",
+      "author": "dcontando",
+      "errorCode": 0,
+      "errorMessage": "",
+      "ableRegister": false,
+      "message": "No esta permitido realizar registro para esta empresa"
+    },
+    {
+      "id": 811033098,
+      "IdType": "Persona Juridica",
+      "firstName1": "Amparo",
+      "firstName2": "Andrea",
+      "lastName1": "Garcia",
+      "lastName2": "Perez",
+      "email": "ana@gmail.com",
+      "address": "cra 44",
+      "cellNumber": "3067376353",
+      "sendPhoneMessages": true,
+      "sendEmailMessages": true,
+      "name": "David's Company",
+      "reason": "",
+      "author": "dcontando",
+      "errorCode": 0,
+      "errorMessage": "",
+      "ableRegister": true,
+      "message": "Si puede",
+      "city": "Bogota"
+    }
+  ]
+}
